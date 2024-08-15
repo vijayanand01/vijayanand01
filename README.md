@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **MERN PHP**
+- 💬 Ask me about **MERN, PHP**
 
 - 📫 How to reach me **svijayanand14@gmail.com**
 
