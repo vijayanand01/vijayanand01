@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijayanand01&label=Profile%20views&color=0e75b6&style=flat" alt="vijayanand01" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently working on **React**
 
-- 💬 Ask me about **MERN, PHP**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **svijayanand14@gmail.com**
 
